@@ -1,0 +1,13 @@
+{
+    "name": "sohelmia/markdown-parser",
+    "authors": [
+        {
+            "name": "Sohel Mia",
+            "email": "sohelcse1999@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "orchestra/testbench": "^5.1"
+    }
+}
