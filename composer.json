@@ -9,5 +9,15 @@
     "require": {},
     "require-dev": {
         "orchestra/testbench": "^5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sohel\\MarkdownParser\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Sohel\\MarkdownParser\\Test\\": "tests"
+        }
     }
 }
