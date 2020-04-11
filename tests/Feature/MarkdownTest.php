@@ -1,10 +1,9 @@
 <?php
 namespace Sohel\MarkdownParser\Test\Feature;
-
-use Orchestra\Testbench\TestCase;
 use Sohel\MarkdownParser\MarkdownParser;
+use Sohel\MarkdownParser\Test\TestCase;
 
-class  MarkdownTest extends  TestCase
+class  MarkdownTest extends TestCase
 {
 
     public function test_simple_markdown_is_test()

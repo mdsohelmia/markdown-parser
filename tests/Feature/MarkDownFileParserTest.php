@@ -5,8 +5,9 @@ namespace Sohel\MarkdownParser\Test\Feature;
 
 
 use Carbon\Carbon;
-use Orchestra\Testbench\TestCase;
+
 use Sohel\MarkdownParser\MarkdonwFIleParser;
+use Sohel\MarkdownParser\Test\TestCase;
 
 class MarkDownFileParserTest extends TestCase
 {
